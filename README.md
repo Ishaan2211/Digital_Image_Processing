@@ -12,13 +12,13 @@
 ![Original Cat](input/image1.jpg)
 
 ### Huffman Encoding Input
-![Original Smiley](input/image.jpg)
+![Original Smiley](input/image1.jpg)
 
 ### Arithmetic Coding Input
 ![Original Smiley](input/image.jpg)
 
 ### HSI Conversion Input
-![Original RGB](input/image.jpg)
+![Original RGB](input/image1.jpg)
 
 ## Output Images
 
